@@ -8,7 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 Weather App ✨
-This is a simple weather application built with React and Vite. It allows users to search for a city and get the current weather conditions for that location
+- This is a simple weather application built with React and Vite. It allows users to search for a city and get the current weather conditions for that location
 
 
 To run this application locally, you'll need to have Node.js and npm installed on your machine. Once you've cloned this repository, navigate to the project directory and run the following commands:
